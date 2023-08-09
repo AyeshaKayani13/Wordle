@@ -13,6 +13,6 @@
 - Secret Manager
 
 ## Group Members:
-Adam Kaczmarski
-Ayesha Kayani
-Vijay Kesireddy
+<br>Adam Kaczmarski<br>
+<br>Ayesha Kayani<br>
+<br>Vijay Kesireddy<br>
