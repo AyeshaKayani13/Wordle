@@ -2,7 +2,7 @@
 
 ## READMEs describing the UI and Backend
 - UI - ReactJS w/ React Bootstrap and Redux Toolkit
-- Backend - python django
+- Backend - python Django
 
 ## Deployed on GCP using:
 - Cloud Run
@@ -13,8 +13,6 @@
 - Secret Manager
 
 ## Group Members:
-Adam Kaczmarski
-
-Ayesha Kayani
-
-Vijay Kesireddy
+- Adam Kaczmarski
+- Ayesha Kayani
+- Vijay Kesireddy
